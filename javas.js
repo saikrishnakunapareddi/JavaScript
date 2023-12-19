@@ -2,7 +2,7 @@
       <head>  
            <script type="text/javascript">  
            function msg(){  
-           alert("Hello Javatpoint");  
+           alert("Hello Javatpoint devops");  
            }  
          </script>  
      </head>  
